@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "催涙夜",
+  "base_artist": "ミセカイ",
+  "createdAt": "2025-12-06T10:38:54.157378Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "催涙夜",
+      "artist": "ミセカイ",
+      "has_synced": false,
+      "path": "select/pl_01_催涙夜_ミセカイ.txt"
+    }
+  ]
+}
